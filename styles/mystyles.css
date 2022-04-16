@@ -1,0 +1,60 @@
+h2 {
+    color: rgb(2, 90, 2);
+}
+
+a:hover {
+    color: rgb(2, 90, 2);
+    text-decoration: underline;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    margin: 15px;
+}
+
+.funstuff {
+    font-weight: bold;
+}
+
+.thegoods {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.custombg {
+    background-color: aliceblue;
+}
+
+.custombold {
+    font-weight: bold;
+}
+
+ol {
+    font-style: bold;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.flip {
+    position: absolute;
+    width: 50%;
+    margin-top: 55px;
+    margin-left: 725px;
+}
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
